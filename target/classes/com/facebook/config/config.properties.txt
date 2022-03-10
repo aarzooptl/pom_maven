@@ -1,0 +1,4 @@
+url=https://applications.wes.org/createaccount/login/login
+username=p.aarzoo45@gmail.com
+password=Mayank7891*
+browser=Firefox
